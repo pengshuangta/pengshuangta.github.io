@@ -7,7 +7,7 @@ description: "The early bird catches the worm!"
 keyword: "pengshuangta, pengshuangta Blog,彭双塔, 彭双塔的博客, iOS, Apple, iPhone"
 url: "http://pst.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/pengshuangta/pengshuangta.github.io.git" # you code repository
+github_repo: "https://github.com/pengshuangta/pst.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
